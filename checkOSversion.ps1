@@ -1,9 +1,9 @@
 # ------------------------------------------------------------
 # 1. Overview of Script
-#   - OS 名（例: Windows 10, Windows Server 2019）
-#   - ビルド番号 (例: 19041)
-#   - バージョン文字列 (例: 10.0.19041)
-#   - サブバージョン/ビルド日付を取得する場合は追加
+#   - OS Name (e.g.: Windows 10, Windows Server 2019)
+#   - BUild number (e.g.: 19041)
+#   - Version (e.g.: 10.0.19041)
+#   - Sub Version/ Add ths to get build date
 # ------------------------------------------------------------
 
 # 2. get system info
