@@ -1,4 +1,6 @@
 ﻿<#
+Updated 25th Nov 2025
+
 .SYNOPSIS
     LanScope Cat Version Check Script
 
@@ -563,7 +565,7 @@ function Show-Summary {
 #region Main Processing
 Write-Output "======================================"
 Write-Output "LanScope Cat Version Check Script"
-Write-Output "Version 0.0.1, Auther: mmiy powered by Gen AI"
+Write-Output "Date: 25th Nov 2025, Auther: mmiy & GenAI"
 Write-Output "======================================"
 
 # Try each method in order (exit when found)
